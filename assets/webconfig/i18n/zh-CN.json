@@ -324,7 +324,7 @@
   "edt_conf_fw_flat_expl": "每行一个 flatbuffer 目标。包含 IP:PORT（示例：127.0.0.1:19401）",
   "edt_conf_fw_flat_itemtitle": "平面缓冲目标",
   "edt_conf_fw_flat_title": "flatbuffer 客户端列表",
-  "edt_conf_fw_heading_title": "货代",
+  "edt_conf_fw_heading_title": "代理",
   "edt_conf_fw_json_expl": "每行一个 json 目标。包含 IP:PORT（示例：127.0.0.1:19446）",
   "edt_conf_fw_json_itemtitle": "JSON 目标",
   "edt_conf_fw_json_title": "json 客户端列表",
